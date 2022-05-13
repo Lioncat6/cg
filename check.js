@@ -1,1 +1,1 @@
-document.querySelector('html').innerText = 'Not Found🤔';
+window.location.replace("https://www.google.com/");
