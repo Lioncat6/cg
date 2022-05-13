@@ -1,1 +1,1 @@
-document.innerHTML = "Nouthing Here :(";
+document.querySelector('html').innerText = 'Not Found🤔';
